@@ -56,9 +56,9 @@ A note on reproducibility, please see the hyperparameters tuned listed in the ``
 
 #### Results
 
-![](https://github.com/super-shayan/FEML//blob/master/comparison_figure.png?raw=true)
+![](https://github.com/super-shayan/FEML//blob/main/figures/comparison_figure.png?raw=true)
 
-![](https://github.com/super-shayan/FEML//blob/master/main_table.png?raw=true)
+![](https://github.com/super-shayan/FEML//blob/main/figures/main_table.png?raw=true)
 
 #### Paper citation
 
